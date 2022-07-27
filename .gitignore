@@ -1,0 +1,5 @@
+*.avro
+.idea/
+*.iml
+*.bak
+target/
